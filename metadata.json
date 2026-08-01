@@ -1,0 +1,6 @@
+{
+  "name": "Faizan-e-Ilm Online Academy",
+  "description": "Student & Admin Portal for Faizan-e-Ilm Online Academy featuring courses, attendance, daily performance, homework, fee management, certificates, and prayer times.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
